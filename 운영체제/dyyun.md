@@ -1,0 +1,1 @@
+[운영체제 링크](https://memodayoungee.tistory.com/156)
