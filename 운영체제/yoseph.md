@@ -32,6 +32,8 @@
 
 [[운영체제(OS)] 12. 주기억장치 관리](https://yoseph0310.tistory.com/233)
 
+
+
 [[운영체제(OS)] 13. 페이징](https://yoseph0310.tistory.com/234)
 
 [[운영체제(OS)] 14. 세그멘테이션](https://yoseph0310.tistory.com/235)
