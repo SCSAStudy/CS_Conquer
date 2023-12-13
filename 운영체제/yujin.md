@@ -1,0 +1,1 @@
+[운영체제 - 리눅스(Linux)](https://newjin847.tistory.com/20)
