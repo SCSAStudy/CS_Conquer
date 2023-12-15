@@ -32,9 +32,24 @@
 
 [[운영체제(OS)] 12. 주기억장치 관리](https://yoseph0310.tistory.com/233)
 
-
-
 [[운영체제(OS)] 13. 페이징](https://yoseph0310.tistory.com/234)
 
 [[운영체제(OS)] 14. 세그멘테이션](https://yoseph0310.tistory.com/235)
+
+[[운영체제(OS)] 15. 가상메모리](https://yoseph0310.tistory.com/245)
+
+[[운영체제(OS)] 16. 페이지 교체 알고리즘](https://yoseph0310.tistory.com/246)
+
+[[운영체제(OS)] 17. 프레임 할당](https://yoseph0310.tistory.com/247)
+
+<br/><br/>
+
+**보조 기억장치 관리**
+
+[[운영체제(OS)] 18. 파일 할당](https://yoseph0310.tistory.com/248)
+
+[[운영체제(OS)] 19. 디스크 스케줄 알고리즘](https://yoseph0310.tistory.com/249)
+
+
+
 
