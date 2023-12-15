@@ -1,0 +1,1 @@
+[면접질문(운영체제)](https://newjin847.tistory.com/31)
