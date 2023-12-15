@@ -1,5 +1,5 @@
 ## [유진]
-- windows와 linux의 차이점**
+- **windows와 linux의 차이점**
   - UI
     - 윈도우는 GUI기반의 운영체제이고, 리눅스는 CLI기반의 운영체제이다. 
   - 비용
