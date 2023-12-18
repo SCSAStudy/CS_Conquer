@@ -41,10 +41,8 @@ Study Git
 ### ➡️ 브랜치 방식
 ```
 main
-└─ <스터디원 이름>_<주차>
 ```
-- 주차 : 1week, 2week, ... Nweek
-- ex) YOSEPH_1week, YOSEPH_2week ... 
+- main 에 바로 커밋
 
 <br> 
 
