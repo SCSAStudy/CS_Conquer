@@ -1,0 +1,1 @@
+https://velog.io/@vryehdus0528/자료구조cs-1주차
